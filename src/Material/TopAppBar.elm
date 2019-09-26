@@ -67,7 +67,7 @@ navigation icon, and action items.
 @docs fixed
 
 
-## Dense varianet
+## Dense variant
 
 @docs dense
 
